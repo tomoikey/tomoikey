@@ -1,4 +1,2 @@
 # tomoikey
-[CatCloud](https://github.com/tomoikey/CatCloud)  
-[ourweb](https://github.com/tomoikey/ourweb)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoikey)](https://github.com/tomoikey/github-readme-stats)
