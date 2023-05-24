@@ -1,9 +1,0 @@
-C:\Users\somey\source\repos\Clock\Clock\bin\Debug\Clock.exe.config
-C:\Users\somey\source\repos\Clock\Clock\bin\Debug\Clock.exe
-C:\Users\somey\source\repos\Clock\Clock\bin\Debug\Clock.pdb
-C:\Users\somey\source\repos\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
-C:\Users\somey\source\repos\Clock\Clock\obj\Debug\Clock.Form1.resources
-C:\Users\somey\source\repos\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
-C:\Users\somey\source\repos\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
-C:\Users\somey\source\repos\Clock\Clock\obj\Debug\Clock.exe
-C:\Users\somey\source\repos\Clock\Clock\obj\Debug\Clock.pdb
