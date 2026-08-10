@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=tomoikey&fontSize=70&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Type%20safety%20is%20not%20a%20luxury%2C%20it%27s%20a%20necessity.&descSize=18&descAlignY=55" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="tomoikey — Type safety is not a luxury, it's a necessity."/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%3C%F0%9D%97%A6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%AE+%2F%3E+%2B+Rust+%2B+Go;I+enjoy+functional+programming+%CE%BB;Making+illegal+states+unrepresentable" alt="Typing SVG" />
 
