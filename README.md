@@ -39,7 +39,7 @@ impl Tomoikey {
 }
 ```
 
-## 🦀 Crates I'm proud of
+## `$ cargo search --owner tomoikey --sort stars`
 
 <div align="center">
 
@@ -54,7 +54,7 @@ impl Tomoikey {
 
 </div>
 
-## 🛠️ Arsenal
+## `$ ls -la ~/arsenal`
 
 <div align="center">
 
@@ -76,7 +76,7 @@ impl Tomoikey {
 
 </div>
 
-## 📊 Stats
+## `$ git log --stat --author=tomoikey`
 
 <div align="center">
 
