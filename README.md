@@ -14,25 +14,29 @@
 
 </div>
 
-## `$ whoami --verbose`
+## `$ jwt decode $(whoami)`
 
-```rust
-use refined_type::rule::NonEmptyString;
-
-struct Tomoikey {
-    role: NonEmptyString,           // "WEB Programmer"
-    weapons: [Language; 3],         // [Scala, Rust, Go]
-    paradigm: Paradigm,             // Paradigm::Functional λ
-    belief: &'static str,           // "Parse, don't validate."
-    runtime_errors: PhantomData<Never>, // caught at compile time, obviously
+```jsonc
+// header
+{
+  "alg": "RS256",    // Rust-Scala 256
+  "typ": "JWT"
 }
 
-impl Tomoikey {
-    /// Compiles ⇒ Works. That's the deal I made with the type system.
-    pub fn code(&self) -> Result<Elegance, Infallible> {
-        Ok(Elegance::TypeDriven)
-    }
+// payload
+{
+  "iss": "https://github.com/tomoikey",
+  "sub": "tomoikey",
+  "aud": ["chatwork", "jpcounderscore", "SynthetiqVision"],
+  "exp": 253402300799,    // type safety never expires
+  "role": "WEB Programmer",
+  "weapons": ["Scala", "Rust", "Go"],
+  "paradigm": "functional programming λ",
+  "belief": "Parse, don't validate."
 }
+
+// signature
+//   verified by the compiler — no runtime surprises
 ```
 
 ## `$ cargo search --owner tomoikey --sort stars`
