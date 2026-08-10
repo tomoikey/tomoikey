@@ -29,6 +29,11 @@
     @keyframes fadein { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
     @keyframes rise { from { opacity: 0; transform: translateY(26px); } to { opacity: 1; transform: translateY(0); } }
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @media (max-width: 560px) {
+      .name { font-size: 108px; }
+      .desc { font-size: 26px; animation-name: fadein-m; }
+      @keyframes fadein-m { from { opacity: 0; transform: translateY(28px); } to { opacity: 1; transform: translateY(16px); } }
+    }
   </style>
 
   <path fill="url(#bg)" d="M0 0 H1200 V218 C1030 188, 920 252, 770 236 C620 220, 520 176, 385 202 C240 230, 115 214, 0 182 Z">

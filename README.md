@@ -41,34 +41,36 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2dpdGh1Yi5jb20vdG9tb2l
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" colspan="2">
       <br/>
       <code>main_weapons</code>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=scala,rust,go&theme=dark&perline=3" height="64"/>
+      <img src="https://skillicons.dev/icons?i=scala,rust,go&theme=dark&perline=3" width="216"/>
       <br/><br/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <br/>
       <code>frontend</code>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=4" height="44"/>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=4" width="224"/>
       <br/><br/>
     </td>
-    <td align="center" width="34%">
+    <td align="center" width="50%">
       <br/>
       <code>infra_cloud</code>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform&theme=dark&perline=5" height="44"/>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform&theme=dark&perline=5" width="280"/>
       <br/><br/>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <br/>
       <code>data_api</code>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark&perline=3" height="44"/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark&perline=3" width="168"/>
       <br/><br/>
     </td>
   </tr>
@@ -78,10 +80,10 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2dpdGh1Yi5jb20vdG9tb2l
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomoikey&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomoikey&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomoikey&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomoikey&theme=tokyonight" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=tomoikey&theme=tokyonight&hide_border=true&background=1a1b27" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=tomoikey&theme=tokyonight&hide_border=true&background=1a1b27" width="495"/>
 
 </div>
 
