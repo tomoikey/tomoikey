@@ -14,30 +14,13 @@
 
 </div>
 
-## `$ jwt decode $(whoami)`
+## `$ echo $TOMOIKEY_TOKEN`
 
-```jsonc
-// header
-{
-  "alg": "RS256",    // Rust-Scala 256
-  "typ": "JWT"
-}
-
-// payload
-{
-  "iss": "https://github.com/tomoikey",
-  "sub": "tomoikey",
-  "aud": ["chatwork", "jpcounderscore", "SynthetiqVision"],
-  "exp": 253402300799,    // type safety never expires
-  "role": "WEB Programmer",
-  "weapons": ["Scala", "Rust", "Go"],
-  "paradigm": "functional programming λ",
-  "belief": "Parse, don't validate."
-}
-
-// signature
-//   verified by the compiler — no runtime surprises
 ```
+eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2dpdGh1Yi5jb20vdG9tb2lrZXkiLCJzdWIiOiJ0b21vaWtleSIsImF1ZCI6WyJjaGF0d29yayIsImpwY291bmRlcnNjb3JlIiwiU3ludGhldGlxVmlzaW9uIl0sImV4cCI6MjUzNDAyMzAwNzk5LCJyb2xlIjoiV0VCIFByb2dyYW1tZXIiLCJ3ZWFwb25zIjpbIlNjYWxhIiwiUnVzdCIsIkdvIl0sInBhcmFkaWdtIjoiZnVuY3Rpb25hbCBwcm9ncmFtbWluZyDOuyIsImJlbGllZiI6IlBhcnNlLCBkb24ndCB2YWxpZGF0ZS4iLCJub3RlIjoidHlwZSBzYWZldHkgbmV2ZXIgZXhwaXJlcyJ9.FY34w-aHp0mdvUQQUUVFA1odOynupg3wVSaMDkZogwM
+```
+
+<sub>Don't trust me? Decode and verify.</sub>
 
 ## `$ cargo search --owner tomoikey --sort stars`
 
