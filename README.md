@@ -2,10 +2,6 @@
 
 <img src="./assets/header.svg" width="100%" alt="tomoikey — Type safety is not a luxury, it's a necessity."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%3C%F0%9D%97%A6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%AE+%2F%3E+%2B+Rust+%2B+Go;I+enjoy+functional+programming+%CE%BB;Making+illegal+states+unrepresentable" alt="Typing SVG" />
-
-<br/>
-
 <a href="https://github.com/chatwork"><img src="https://img.shields.io/badge/@chatwork-F01E41?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/jpcounderscore"><img src="https://img.shields.io/badge/@jpcounderscore-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/SynthetiqVision"><img src="https://img.shields.io/badge/@SynthetiqVision-7aa2f7?style=for-the-badge&logo=github&logoColor=white"/></a>
