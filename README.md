@@ -80,10 +80,10 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2dpdGh1Yi5jb20vdG9tb2l
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomoikey&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomoikey&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomoikey&theme=tokyonight" width="340"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomoikey&theme=tokyonight" width="340"/>
 
-<img src="https://streak-stats.demolab.com/?user=tomoikey&theme=tokyonight&hide_border=true&background=1a1b27" width="495"/>
+<img src="https://streak-stats.demolab.com/?user=tomoikey&theme=tokyonight&hide_border=true&background=1a1b27" width="400"/>
 
 </div>
 
