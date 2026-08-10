@@ -60,7 +60,7 @@ impl Tomoikey {
   <tr>
     <td align="center" colspan="3">
       <br/>
-      <code>main_weapons/</code>
+      <code>main_weapons</code>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=scala,rust,go&theme=dark&perline=3" height="64"/>
       <br/><br/>
@@ -69,21 +69,21 @@ impl Tomoikey {
   <tr>
     <td align="center" width="33%">
       <br/>
-      <code>frontend/</code>
+      <code>frontend</code>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=4" height="44"/>
       <br/><br/>
     </td>
     <td align="center" width="34%">
       <br/>
-      <code>infra_cloud/</code>
+      <code>infra_cloud</code>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform&theme=dark&perline=5" height="44"/>
       <br/><br/>
     </td>
     <td align="center" width="33%">
       <br/>
-      <code>data_api/</code>
+      <code>data_api</code>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark&perline=3" height="44"/>
       <br/><br/>
