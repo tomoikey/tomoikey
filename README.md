@@ -56,25 +56,36 @@ impl Tomoikey {
 
 ## `$ ls -la ~/arsenal`
 
-<div align="center">
-
-**⚔️ Main weapons**
-
-<img src="https://skillicons.dev/icons?i=scala,rust,go&theme=dark&perline=3" height="56"/>
-
-**🖥️ Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=4" height="44"/>
-
-**☁️ Infra & Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform&theme=dark&perline=5" height="44"/>
-
-**🗄️ Data & API**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark&perline=3" height="44"/>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>⚔️ Main weapons</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=scala,rust,go&theme=dark&perline=3" height="52"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <b>🖥️ Frontend</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=4" height="52"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>☁️ Infra & Cloud</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform&theme=dark&perline=5" height="52"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <b>🗄️ Data & API</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark&perline=3" height="52"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ## `$ git log --stat --author=tomoikey`
 
@@ -91,6 +102,6 @@ impl Tomoikey {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=140&section=footer" width="100%"/>
 
-<sub>⭐ from <a href="https://github.com/tomoikey">tomoikey</a> — compiled with zero warnings</sub>
+<sub>⭐ from <a href="https://github.com/tomoikey">tomoikey</a></sub>
 
 </div>
