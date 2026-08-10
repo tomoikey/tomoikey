@@ -8,8 +8,13 @@
 
 <a href="https://github.com/chatwork"><img src="https://img.shields.io/badge/@chatwork-F01E41?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/jpcounderscore"><img src="https://img.shields.io/badge/@jpcounderscore-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/tomoikey_"><img src="https://img.shields.io/badge/@tomoikey__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://github.com/SynthetiqVision"><img src="https://img.shields.io/badge/@SynthetiqVision-7aa2f7?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/📍_Asia%2FYokohama_(ap--northeast--4)-414868?style=for-the-badge"/>
+
+<a href="https://twitter.com/tomoikey_"><img src="https://img.shields.io/badge/@tomoikey__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://zenn.dev/tomoikey"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white"/></a>
+<a href="https://speakerdeck.com/tomoikey"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white"/></a>
+<a href="https://www.youtube.com/@tomoikey"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
@@ -39,10 +44,10 @@ impl Tomoikey {
 <div align="center">
 
 <a href="https://github.com/tomoikey/refined_type">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomoikey&repo=refined_type&theme=tokyonight&hide_border=true" />
+  <img src="https://opengraph.githubassets.com/1/tomoikey/refined_type" width="49%" />
 </a>
 <a href="https://github.com/tomoikey/typesafe_builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomoikey&repo=typesafe_builder&theme=tokyonight&hide_border=true" />
+  <img src="https://opengraph.githubassets.com/1/tomoikey/typesafe_builder" width="49%" />
 </a>
 
 <sub>💡 <b>refined_type</b> — refine your types, banish invalid values &nbsp;/&nbsp; <b>typesafe_builder</b> — builder pattern, verified by the compiler</sub>
@@ -67,10 +72,10 @@ impl Tomoikey {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tomoikey&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomoikey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomoikey&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomoikey&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tomoikey&theme=tokyonight&hide_border=true&background=1a1b27" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=tomoikey&theme=tokyonight&hide_border=true&background=1a1b27" height="180"/>
 
 </div>
 
