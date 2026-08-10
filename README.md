@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=tomoikey&fontSize=70&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Type%20safety%20is%20not%20a%20luxury%2C%20it%27s%20a%20necessity.&descSize=18&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%3C%F0%9D%97%A6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%AE+%2F%3E+%2B+%F0%9F%A6%80+Rust+%2B+Go;I+enjoy+functional+programming+%CE%BB;Making+illegal+states+unrepresentable" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%3C%F0%9D%97%A6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%AE+%2F%3E+%2B+Rust+%2B+Go;I+enjoy+functional+programming+%CE%BB;Making+illegal+states+unrepresentable" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/chatwork"><img src="https://img.shields.io/badge/@chatwork-F01E41?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/jpcounderscore"><img src="https://img.shields.io/badge/@jpcounderscore-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/SynthetiqVision"><img src="https://img.shields.io/badge/@SynthetiqVision-7aa2f7?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/📍_Asia%2FYokohama_(ap--northeast--4)-414868?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Asia%2FYokohama_(ap--northeast--4)-414868?style=for-the-badge"/>
 
 <a href="https://twitter.com/tomoikey_"><img src="https://img.shields.io/badge/@tomoikey__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://zenn.dev/tomoikey"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white"/></a>
@@ -50,7 +50,7 @@ impl Tomoikey {
   <img src="https://opengraph.githubassets.com/1/tomoikey/typesafe_builder" width="49%" />
 </a>
 
-<sub>💡 <b>refined_type</b> — refine your types, banish invalid values &nbsp;/&nbsp; <b>typesafe_builder</b> — builder pattern, verified by the compiler</sub>
+<sub><b>refined_type</b> — refine your types, banish invalid values &nbsp;/&nbsp; <b>typesafe_builder</b> — builder pattern, verified by the compiler</sub>
 
 </div>
 
@@ -58,30 +58,34 @@ impl Tomoikey {
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <b>⚔️ Main weapons</b>
+    <td align="center" colspan="3">
+      <br/>
+      <code>main_weapons/</code>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=scala,rust,go&theme=dark&perline=3" height="52"/>
-      <br/><br/>
-    </td>
-    <td align="center" width="50%">
-      <b>🖥️ Frontend</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=4" height="52"/>
+      <img src="https://skillicons.dev/icons?i=scala,rust,go&theme=dark&perline=3" height="64"/>
       <br/><br/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <b>☁️ Infra & Cloud</b>
+    <td align="center" width="33%">
+      <br/>
+      <code>frontend/</code>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform&theme=dark&perline=5" height="52"/>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=4" height="44"/>
       <br/><br/>
     </td>
-    <td align="center" width="50%">
-      <b>🗄️ Data & API</b>
+    <td align="center" width="34%">
+      <br/>
+      <code>infra_cloud/</code>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark&perline=3" height="52"/>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform&theme=dark&perline=5" height="44"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <code>data_api/</code>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark&perline=3" height="44"/>
       <br/><br/>
     </td>
   </tr>
@@ -102,6 +106,6 @@ impl Tomoikey {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=140&section=footer" width="100%"/>
 
-<sub>⭐ from <a href="https://github.com/tomoikey">tomoikey</a></sub>
+<sub>crafted by <a href="https://github.com/tomoikey">tomoikey</a></sub>
 
 </div>
