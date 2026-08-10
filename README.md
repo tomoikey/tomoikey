@@ -79,12 +79,6 @@ impl Tomoikey {
 
 </div>
 
-## λ Philosophy
-
-> **Make illegal states unrepresentable.**
-> If it compiles, it works. If it doesn't work, it shouldn't have compiled.
-> `Option` over `null`, `Result` over `throw`, composition over inheritance.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=140&section=footer" width="100%"/>
