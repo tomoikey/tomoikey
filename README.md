@@ -5,12 +5,13 @@
 <a href="https://github.com/chatwork"><img src="https://img.shields.io/badge/@chatwork-F01E41?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/jpcounderscore"><img src="https://img.shields.io/badge/@jpcounderscore-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/SynthetiqVision"><img src="https://img.shields.io/badge/@SynthetiqVision-7aa2f7?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Asia%2FYokohama_(ap--northeast--4)-414868?style=for-the-badge"/>
 
 <a href="https://twitter.com/tomoikey_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://zenn.dev/tomoikey"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white"/></a>
 <a href="https://speakerdeck.com/tomoikey"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white"/></a>
 <a href="https://www.youtube.com/@tomoikey"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Asia%2FYokohama_(ap--northeast--4)-414868?style=for-the-badge"/>
 
 </div>
 
